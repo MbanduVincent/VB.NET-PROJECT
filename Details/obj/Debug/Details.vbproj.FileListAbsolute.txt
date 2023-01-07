@@ -1,0 +1,16 @@
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\bin\Debug\Details.exe.config
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\bin\Debug\Details.exe
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\bin\Debug\Details.pdb
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\bin\Debug\Details.xml
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\bin\Debug\MySql.Data.DLL
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.vbprojResolveAssemblyReference.cache
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.Form1.resources
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.Resources.resources
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.vbproj.GenerateResource.Cache
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.exe
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.xml
+C:\Users\ochan\AppData\Local\Temporary Projects\Details\obj\Debug\Details.pdb
+C:\Users\ochan\OneDrive\Documents\Visual Studio 2012\Projects\Details\Details\bin\Debug\Details.exe.config
+C:\Users\ochan\OneDrive\Documents\Visual Studio 2012\Projects\Details\Details\obj\Debug\Details.exe
+C:\Users\ochan\OneDrive\Documents\Visual Studio 2012\Projects\Details\Details\obj\Debug\Details.xml
+C:\Users\ochan\OneDrive\Documents\Visual Studio 2012\Projects\Details\Details\obj\Debug\Details.pdb
